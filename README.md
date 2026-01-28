@@ -9,7 +9,7 @@ Radium is a powerful, hackable IDE built on [Electron](https://github.com/electr
 - **Project Support**: Full IDE experience with project management
 - **Syntax Highlighting**: Advanced text highlighting for all supported languages
 
-![Radium](https://user-images.githubusercontent.com/378023/49132477-f4b77680-f31f-11e8-8357-ac6491761c6c.png)
+![Radium](https://imgur.com/09mGYsG)
 
 ## Features
 
