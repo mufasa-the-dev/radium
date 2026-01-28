@@ -1,4 +1,4 @@
-# ![RadiumLogo](https://i.imgur.com/xuqlCZ1.png) Radium
+# <img width="246" height="246" alt="image" src="https://github.com/user-attachments/assets/ce8a32b8-ae55-486c-8754-dd5346048eb9" /> Radium
 
 > A modern IDE for the 21st Century.
 
