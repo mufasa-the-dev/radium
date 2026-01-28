@@ -45,10 +45,6 @@ Download the latest Radium installer from the [releases page](https://github.com
 
 Access the Workshop from the menu: `File > Workshop` or use the command palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and type "Workshop".
 
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
