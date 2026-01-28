@@ -1,4 +1,4 @@
-![RadiumLogo](https://i.imgur.com/xuqlCZ1.png) # Radium
+# ![RadiumLogo](https://i.imgur.com/xuqlCZ1.png) Radium
 
 > A modern IDE for the 21st Century.
 
