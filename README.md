@@ -1,4 +1,4 @@
-# <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/ce8a32b8-ae55-486c-8754-dd5346048eb9" /> Radium
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/ce8a32b8-ae55-486c-8754-dd5346048eb9" /> Radium
 
 > A modern IDE for the 21st Century.
 
