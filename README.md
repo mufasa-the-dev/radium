@@ -1,3 +1,4 @@
+![RadiumLogo](<img width="245" height="246" alt="image" src="https://github.com/user-attachments/assets/d11cf20a-05de-4df0-b1a1-531b9e275e7a" />)
 # Radium
 
 > A modern IDE for the 21st Century.
