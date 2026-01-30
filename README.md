@@ -39,7 +39,7 @@ Radium is a powerful, hackable IDE built on [Electron](https://github.com/electr
 
 ### Windows
 
-Download the latest Radium installer from the [releases page](https://github.com/radium-editor/radium/releases/latest).
+Download the latest Radium installer from the [releases page](https://github.com/mufasa-the-dev/radium/releases/latest).
 
 ## Workshop
 
